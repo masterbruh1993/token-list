@@ -1,0 +1,12 @@
+{
+  "name": "GOATKING",
+  "symbol": "GOATKING",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/masterbruh1993/goatking-token-metadata/main/assets/mainnet/5ggRuPe6KveGok8AAzt3gN99C9oceACQqck541WwL9we/logo.png",
+  "tags": ["meme", "utility-token"],
+  "extensions": {
+    "website": "https://x.com/GoatKingToken",
+    "twitter": "https://x.com/GoatKingToken",
+    "telegram": "https://t.me/GoatKingOfficial"
+  }
+}
