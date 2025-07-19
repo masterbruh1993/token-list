@@ -1,0 +1,25 @@
+{
+  "name": "Solana Token List",
+  "tags": {
+    "community": {
+      "name": "community",
+      "description": "Community driven tokens"
+    },
+    "meme": {
+      "name": "meme",
+      "description": "Meme tokens"
+    }
+  },
+  "timestamp": "2025-07-19T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "5ggRuPe6KveGok8AAzt3gN99C9oceACQqck541WwL9we",
+      "symbol": "GOAT",
+      "name": "GOATKING",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/masterbruh1993/goatking-token-metadata/main/assets/mainnet/5ggRuPe6KveGok8AAzt3gN99C9oceACQqck541WwL9we/logo.png",
+      "tags": ["community", "meme"]
+    }
+  ]
+}
